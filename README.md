@@ -1,13 +1,13 @@
 # Pokedex 📱
 
 <p>
-  🇺🇸 Study project with Next.js, TypeScript and Firebase!
+  🇺🇸 Study project with Next.js, React, Tailwind TypeScript and Firebase!
 </p>
 
 <br/>
 
 <p>
-  🇧🇷 Projeto de estudos com Next.js, TypeScript e Firebase!
+  🇧🇷 Projeto de estudos com Next.js, React, Tailwind TypeScript e Firebase!
 
 </p>
 
@@ -82,6 +82,7 @@ http://localhost:3000/
 <ul>
     <li>Next.JS</li>
     <li>React</li>
+    <li>Taildwind</li>
     <li>TypeScript</li>
     <li>Firebase</li>
 </ul>
