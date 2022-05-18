@@ -1,4 +1,4 @@
-# Pokedex 📱
+# Register Client 📱
 
 <p>
   🇺🇸 Study project with Next.js, React, Tailwind TypeScript and Firebase!
