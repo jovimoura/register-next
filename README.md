@@ -12,24 +12,16 @@
 </p>
 
 
-
-# 🇧🇷 A aplicação está on-line no link. 🇺🇸 The application is online at the link:
-
-
-```
-https://pokedex-next-flax.vercel.app/
-```
-
 ## 🇺🇸 If you want to analyze the project on your machine, follow this step by step. 🇧🇷 Caso você queira analisar o projeto em sua máquina, siga este passo a passo: 😁
 
 <br>
 
-## 🇺🇸
+## 🇺🇸 ENG
 
 ### Clone😎
 
 ```
-git clone https://github.com/jovimoura/pokedex-next
+git clone https://github.com/jovimoura/register-next
 ```
 
 ### Access the folder🤓
@@ -53,12 +45,12 @@ http://localhost:3000/
 
 <br>
 
-## 🇧🇷
+## 🇧🇷 PT-BR
 
 ### Clone o repositório😎
 
 ```
-git clone https://github.com/jovimoura/pokedex-next
+git clone https://github.com/jovimoura/register-next
 ```
 
 ### Acesse o diretorio🤓
@@ -82,7 +74,7 @@ http://localhost:3000/
 
 ## 🇺🇸 Image | 🇧🇷 Imagem do projeto  💻
 
-<img style="width: 600px; height: 250px" src="./public/images/prints/print.png">
+<img style="width: 600px; height: 300px" src="./public/images/prints/print.png">
 
 
 ##  🇺🇸 Tecnologies and Libs | 🇧🇷 Tecnologias e Bibliotecas utilizadas🦉
