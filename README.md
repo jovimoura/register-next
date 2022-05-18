@@ -121,7 +121,7 @@ http://localhost:3000/
 
 ## 🇺🇸 Image | 🇧🇷 Imagem do projeto  💻
 
-<img style="width: 600px; height: 300px" src="./public/images/prints/print.png">
+<img style="width: 600px; height: 300px" src="./public/images/gif/register-gif.gif">
 
 
 ##  🇺🇸 Tecnologies and Libs | 🇧🇷 Tecnologias e Bibliotecas utilizadas🦉
