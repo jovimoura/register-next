@@ -11,6 +11,53 @@
 
 </p>
 
+# 🇧🇷 Configuração / 🇺🇸 Config:
+
+<p>
+   🇧🇷 Para usar o projeto com firebase, é necessário possuir um DataBase no Firebase e também é precso configura-lo.
+</p>
+
+<br/>
+
+<p>
+  🇧🇷 Crie um .env e alimente-o com as configurações do seu database firebase:
+</p>
+
+<br />
+
+<p>
+   🇺🇸 To use the project with firebase, it is necessary to have a DataBase in Firebase and it is also necessary to configure it.
+</p>
+
+<br/>
+
+<p>
+  🇺🇸 Create an .env and feed it with your firebase database settings:
+</p>
+
+```
+NEXT_PUBLIC_FIREBASE_API_KEY=
+NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=
+NEXT_PUBLIC_FIREBASE_PROJECT_ID=
+```
+<p>
+   🇧🇷 Depois, configure o firebase config e reinicie o projeto:
+</p>
+
+<br/>
+
+<p>
+   🇺🇸 Then configure firebase config and restart the project:
+</p>
+
+```
+const firebaseConfig = {
+  apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
+  authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN,
+  projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
+}
+```
+
 
 ## 🇺🇸 If you want to analyze the project on your machine, follow this step by step. 🇧🇷 Caso você queira analisar o projeto em sua máquina, siga este passo a passo: 😁
 
