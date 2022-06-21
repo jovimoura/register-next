@@ -11,6 +11,13 @@
 
 </p>
 
+
+# 🇧🇷 A aplicação está on-line no link. 🇺🇸 The application is online at the link:
+
+```
+https://register-next.vercel.app/
+```
+
 # 🇧🇷 Configuração / 🇺🇸 Config:
 
 <p>
